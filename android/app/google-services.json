@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633961858168",
+    "project_id": "courti-2e289",
+    "storage_bucket": "courti-2e289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633961858168:android:94d04d30b89e682f5ad98d",
+        "android_client_info": {
+          "package_name": "com.example.courti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRcD_7eSUjzik3IAt4pe1d_ZVUJrcPvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
